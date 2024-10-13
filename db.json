@@ -1,0 +1,100 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "assignedTo": "Aakash Singh",
+      "status": "Completed",
+      "dueDate": "2024-10-01",
+      "priority": "Medium",
+      "comments": "Task completed successfully and verified by the team."
+    },
+    {
+      "id": "2",
+      "assignedTo": "Deepak Yadav",
+      "status": "In Progress",
+      "dueDate": "2024-10-20",
+      "priority": "High",
+      "comments": "Currently working on the final phase of the project."
+    },
+    {
+      "id": "3",
+      "assignedTo": "Karan Kapoor",
+      "status": "Pending",
+      "dueDate": "2024-10-18",
+      "priority": "Low",
+      "comments": "Awaiting manager's approval before proceeding."
+    },
+    {
+      "id": "4",
+      "assignedTo": "Maya Roy",
+      "status": "Completed",
+      "dueDate": "2024-10-05",
+      "priority": "Medium",
+      "comments": "Finished ahead of schedule and reviewed by quality assurance."
+    },
+    {
+      "id": "7",
+      "assignedTo": "Ravi Shankar",
+      "status": "Completed",
+      "dueDate": "2024-10-02",
+      "priority": "High",
+      "comments": "Excellent work on the project; met all requirements."
+    },
+    {
+      "id": "8",
+      "assignedTo": "Priya Sharma",
+      "status": "In Progress",
+      "dueDate": "2024-10-15",
+      "priority": "High",
+      "comments": "Working on finalizing the presentation for the upcoming meeting."
+    },
+    {
+      "id": "9",
+      "assignedTo": "Vikram Desai",
+      "status": "Pending",
+      "dueDate": "2024-10-30",
+      "priority": "Low",
+      "comments": "Awaiting feedback from the client for further changes."
+    },
+    {
+      "id": "10",
+      "assignedTo": "Sonal Bhatia",
+      "status": "Completed",
+      "dueDate": "2024-10-08",
+      "priority": "High",
+      "comments": "Successfully executed the task without any issues."
+    },
+    {
+      "id": "11",
+      "assignedTo": "Gaurav Jain",
+      "status": "Completed",
+      "dueDate": "2024-10-12",
+      "priority": "Medium",
+      "comments": "Reviewed and completed with some minor adjustments."
+    },
+    {
+      "id": "12",
+      "assignedTo": "Swati Mehra",
+      "status": "In Progress",
+      "dueDate": "2024-10-13",
+      "priority": "Medium",
+      "comments": "Ongoing task."
+    },
+    {
+      "id": "13",
+      "assignedTo": "Anita Das",
+      "status": "Pending",
+      "dueDate": "2024-10-13",
+      "priority": "Low",
+      "comments": "Scheduled for review."
+    },
+    {
+      "id": "14",
+      "assignedTo": "Ajay Kumar",
+      "status": "Pending",
+      "dueDate": "2200-10-05",
+      "priority": "Yes",
+      "comments": "Add additional details."
+    }
+  ]
+}
