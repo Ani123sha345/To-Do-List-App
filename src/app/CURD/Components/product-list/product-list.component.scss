@@ -1,0 +1,122 @@
+/* Container Styling */
+.task-manager {
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background: #f0f2f5;
+  font-family: "Arial", sans-serif;
+  color: #333;
+}
+
+/* Header Styling */
+.header {
+  font-size: 2.4rem;
+  margin-bottom: 20px;
+}
+
+/* Actions Bar Styling */
+.actions-bar {
+  margin-bottom: 15px;
+}
+
+.btn-add-task,
+.btn-refresh {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-refresh {
+  background-color: #17a2b8;
+}
+
+/* Search Bar Styling */
+.search-bar {
+  margin-bottom: 15px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Task Table Styling */
+.task-table {
+  overflow-x: auto;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background: #007bff;
+  color: white;
+}
+
+thead th {
+  padding: 12px;
+  text-align: left;
+}
+
+tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+  background: #f1f1f1;
+}
+
+td {
+  padding: 12px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-delete {
+  background: tomato;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-edit {
+  background: darkblue;
+  color: whitesmoke;
+  padding: 8px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* Pagination Controls */
+.pagination-controls {
+  margin-top: 20px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-pagination {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
